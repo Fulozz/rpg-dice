@@ -1,4 +1,4 @@
-import DiceRoller from '../components/DiceRoller';
+import DiceRoller from '@/components/DiceRoller';
 
 export default function Home() {
   return (
